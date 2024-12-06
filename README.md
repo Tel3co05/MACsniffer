@@ -14,4 +14,5 @@ Aparte de estos se nececita:
 - Tener conexión por SSH en cada equipo de red
 - Debe de estar acitvado el comando CDP RUN
 - El equipo desde donde se ejecutará el codigo debe de tener conexión en la red y poder conectarse por SSH
-- 
+
+  
